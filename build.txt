@@ -1,0 +1,6 @@
+displayName = Forced PvP State
+author = Gnidolin(coder), Gratfor(inspirator)
+hideCode = false
+hideResources = false
+includeSource = true
+version = 0.1

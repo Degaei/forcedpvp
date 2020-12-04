@@ -1,0 +1,1 @@
+Forced PvP state allows you to force pvp state or restrict team changing for all players.
