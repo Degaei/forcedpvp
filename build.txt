@@ -1,6 +1,9 @@
+author = Gnidolin(coder), Gratfor(spriter)
+version = 0.0.1
 displayName = Forced PvP State
-author = Gnidolin(coder), Gratfor(inspirator)
+homepage = https://github.com/Degaei/forcedpvp
 hideCode = false
 hideResources = false
 includeSource = true
-version = 0.1
+buildIgnore = *.csproj, *.user, obj\*, bin\*, .vs\*
+includePDB = true
